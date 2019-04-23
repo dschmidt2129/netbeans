@@ -16,6 +16,7 @@ public class NetBeans {
      */
     public static void main(String[] args) {
         System.out.println("hello world");
+	System.out.println("added from command prompt with vi");
     }
     
 }
